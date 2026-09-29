@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "The Daily Brief — Home" },
+    { "path": "/?article=:slug", "title": "The Daily Brief — Article" }
+  ]
+}

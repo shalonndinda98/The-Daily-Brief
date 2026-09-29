@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">The Daily Brief logo</title>
+  <desc id="desc">A signal red circular briefing arrow around a deep ink page mark</desc>
+  <rect width="256" height="256" fill="#d94b3d"/>
+  <circle cx="128" cy="128" r="78" fill="#f6f3ed"/>
+  <path d="M128 74c-30 0-54 24-54 54s24 54 54 54c18 0 34-9 44-23" fill="none" stroke="#14202b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M153 101l34 4-16 30" fill="#14202b"/>
+  <path d="M105 111h45M105 128h45M105 145h29" stroke="#d94b3d" stroke-width="8" stroke-linecap="round"/>
+</svg>
