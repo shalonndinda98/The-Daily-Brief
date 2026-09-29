@@ -39,5 +39,5 @@ A high-contrast newsroom interface with ink navy, signal orange, and compact inf
 
 ## Planned visual assets
 
-- `assets/hero-nairobi.jpg`: A custom editorial hero image for the lead story, composed as a cinematic dawn view over Nairobi with warm light, subtle urban texture, and enough negative space for a headline overlay.
+- `assets/hero-nairobi.webp`: A pinned local copy of the custom editorial hero image for the lead story, composed as a cinematic dawn view over Nairobi with warm light, subtle urban texture, and enough negative space for a headline overlay. Keeping it in the repository prevents a session-scoped image URL from disappearing.
 - `assets/logo.svg` and `assets/logo.png`: A flat, minimal circular-arrow briefing mark in signal red and deep ink for the header and favicon.
